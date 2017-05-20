@@ -1,0 +1,137 @@
+.requestButton {
+    position: absolute;
+    right: 5px;
+}
+
+.SpecialRow {
+    border-width: 1px;
+    border-style: inset;
+}
+
+.Menubackground{
+    background-color:#607D8B;
+    border:none;
+}
+.MenuWord{
+    color: #FFF;
+}
+.Icon {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    max-width: 40px;
+    max-height: 40px;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.emotion {
+    background-color: #3B653D;
+    border: none;
+    position: absolute;
+    right: 5px;
+}
+
+.ProfileIcon {
+    width: 96px;
+}
+
+.emoji-wysiwyg-editor {
+    float: left;
+    width: 80%
+}
+
+#emojibtn {
+    float: left;
+}
+
+.emoji-menu {
+    margin-left: 0;
+    margin-top: -265px;
+}
+
+.icon-emoji {
+    margin: 3px;
+}
+
+#emailBox {
+    width: 60%;
+    float: left;
+    margin-right: 10px;
+}
+
+#domainBox {
+    width: 35%;
+}
+
+
+#iconbutton {
+    background: #009688;
+    border: none;
+}
+
+.requestbuttonaccept {
+    background-color: #59E817;
+    height: 30px;
+    width: 55px;
+    border-radius: 5px;
+    display: inline;
+}
+
+.requestbuttonigrone {
+    background-color: #F70D1A;
+    height: 30px;
+    width: 55px;
+    border-radius: 5px;
+    display: inline;
+}
+
+.requestbuttonfont {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+input {
+    background: #FFF;
+}
+
+body {
+    cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+
+/*Kai's Stuff*/
+
+.float-button {
+    background-color: #80CBC4;
+    opacity: 0.9;
+    color: white;
+    border-radius: 50%;
+    /*border-radius:15% 0 0 0;*/
+    width: 30px;
+    padding: 25px;
+    font-size: 40px;
+    position: fixed;
+    top: 33%;
+    /* Adjust height */
+    right: 3%;
+    /* Adjust position */
+    z-index: 1000;
+}
+
+.float-button .height_fix {
+    margin-top: 100%;
+    border: 1px solid red;
+}
+
+.float-button .content {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-top: -20px;
+    color: white;
+}

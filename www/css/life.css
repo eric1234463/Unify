@@ -1,0 +1,80 @@
+#tabLifeBackground {
+    background-color: rgb(210, 210, 210);
+}
+
+.tabLifeContent {
+    margin: 0 10px 20px 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border-width: 7px;
+    border-color: #966F33;
+    border-style: solid;
+}
+
+.tabLifeSecretContent {
+    margin: 5px 10px 20px 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border-width: 4px;
+    border-color: #009688;
+    border-style: solid;
+}
+
+.statusText{
+    font-weight: bold;
+}
+.ProfileInfo {
+    color: #009688;
+    overflow: visible;
+    font-weight: bold;
+    white-space: normal;
+}
+
+
+.tabLifeBody {
+    background-color: #3B653D;
+}
+
+.heart {
+    background-color: #FF5252;
+    padding: 0 4px 0 4px;
+    font-size: 16px;
+    border-radius: 50%;
+    color: #FFF;
+    vertical-align: middle;
+}
+
+.hurt {
+    background-color: #536DFE;
+    border-radius: 50%;
+    font-size: 16px;
+    padding: 0 4px 0 4px;
+    color: #FFF;
+    vertical-align: middle;
+}
+
+.comment {
+    background-color: #607D8B;
+    border-radius: 50%;
+    padding: 0 4px 0 4px;
+    font-size: 16px;
+    color: #FFF;
+    vertical-align: middle;
+}
+
+.heartCount {
+    color: #FF5252;
+    font-size: 16px;
+}
+
+.hurtCount {
+    color: #536DFE;
+    font-size: 16px;
+}
+
+.commentCount {
+    color: #607D8B;
+    font-size: 16px;
+}

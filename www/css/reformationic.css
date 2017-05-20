@@ -1,0 +1,221 @@
+﻿.tabs {
+    background-color: #009688;
+    color: #FFF;
+}
+
+.full-image {
+    border-radius: 5px;
+}
+
+.button:hover {
+    color: #FFF;
+}
+
+.platform-android .bar .title {
+    font-size: 16px;
+}
+
+.popup-sub-title {
+    color: #FFF;
+}
+
+.tabs-icon-left.tabs .tab-item {
+    font-size: 14px;
+    font-family: 'Tillana', cursive;
+}
+
+.item-divider {
+    background-color: #4DB6AC;
+    color: #FFF;
+}
+
+.button {
+    color: #FFF;
+}
+
+.bar .title {
+    color: #FFF;
+}
+
+.button.active,
+.button.activated {
+    color: #009688;
+    background-color: #FFF box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tabs-calm {
+    background-color: #009688;
+}
+
+.tabs-calm > .tabs,
+.tabs.tabs-calm {
+    background-color: #009688;
+    color: #FFF;
+}
+
+.button.button-stable {
+    border-color: #b2b2b2;
+    background-color: #939393;
+    color: #FFF;
+}
+
+.popup-head {
+    background-color: #004D40;
+}
+
+.popup-title {
+    color: #fff;
+}
+
+.popup-buttons .button:last-child {
+    background-color: #004D40;
+}
+
+.popup-buttons .button {
+    background-color: #b2b2b2;
+}
+
+.label {
+    margin-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.item {
+    border-width: 1px;
+}
+
+.button {
+    background-color: #004D40;
+}
+
+.bar {
+    background-color: #009688;
+    border: none;
+}
+
+.tabs-striped.tabs-calm .tab-item.tab-item-active,
+.tabs-striped.tabs-calm .tab-item.active,
+.tabs-striped.tabs-calm .tab-item.activated {
+    color: #fff;
+}
+
+.tabs-striped .tabs {
+    color: #009688;
+}
+
+.tabs-striped.tabs-calm .tabs {
+    background-color: #009688;
+    border: none;
+}
+
+.tabs-striped .tab-item.tab-item-active {
+    border-color: #009688;
+    border-width: 0 0 2px 0;
+}
+
+.tabs-striped .tab-item.activated {
+    border-color: #009688;
+    border-width: 0 0 2px 0;
+}
+
+.tabs-top > .tabs,
+.tabs.tabs-top {
+    background-color: #009688;
+    color: #FFF;
+}
+
+.calm,
+a.calm {
+    color: #009688;
+}
+
+.button-outline.button-outline {
+    color: #004D40;
+    border-color: #004D40;
+}
+
+.button.button-light.button-outline.active,
+.button.button-light.button-outline.activated {
+    background-color: #004D40;
+    color: #FFF;
+}
+
+.scroll-refresher {
+    background-color: #009688;
+}
+
+.scroll-refresher .ionic-refresher-content.ionic-refresher-with-text {
+    color: #FFF;
+}
+
+.bar.bar-assertive {
+    background-color: #009688;
+}
+
+.bar.bar-assertive .title {
+    background-color: #009688;
+}
+
+.bar-assertive .button {
+    background-color: #009688;
+}
+
+.button.button-assertive.button-outline {
+    border-color: #009688;
+    color: #009688;
+}
+
+.button.button-assertive.button-outline.active,
+.button.button-assertive.button-outline.activated {
+    background-color: #009688;
+}
+
+.item-icon-left .icon {
+    color: #FFF;
+    background-color: #009688;
+    width: 33px;
+    height: 33px;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.wordwrap {
+    border-width: 3px;
+    width: 40em;
+    word-wrap: break-word;
+}
+
+.item h2 {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.item .badge {
+    top: 30px;
+    right: 15px;
+}
+
+.item p {
+    font-size: 16px;
+}
+
+.popup-container .popup {
+    width: 90%;
+}
+
+.date_selected {
+    background-color: #009688;
+}
+
+.today {
+    background-color: #009688;
+}
+
+.myTabStyle {
+    background-color: #009688;
+    border-color: #FFF;
+    color: #FFF;
+    opacity: 1;
+}
